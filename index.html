@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting to CMS Launch...</title>
+    <meta http-equiv="refresh" content="0; url=launch/index.php">
+    <style>
+        body {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            color: white;
+            text-align: center;
+        }
+        .loader {
+            border: 4px solid rgba(255,255,255,0.3);
+            border-top: 4px solid white;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+    <script>
+        // Fallback redirect if meta refresh doesn't work
+        window.location.href = 'launch/index.php';
+    </script>
+</head>
+<body>
+    <div>
+        <div class="loader"></div>
+        <h2>Redirecting to CMS Launch Page...</h2>
+        <p>If you are not redirected, <a href="launch/index.php" style="color: white; text-decoration: underline;">click here</a></p>
+    </div>
+</body>
+</html>

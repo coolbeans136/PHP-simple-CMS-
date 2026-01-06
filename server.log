@@ -1,0 +1,436 @@
+[Mon Jan  5 21:35:28 2026] PHP 8.3.14 Development Server (http://localhost:8000) started
+[Mon Jan  5 21:35:31 2026] [::1]:39520 Accepted
+[Mon Jan  5 21:35:31 2026] [::1]:39520 [200]: GET /
+[Mon Jan  5 21:35:31 2026] [::1]:39520 Closing
+[Mon Jan  5 21:35:31 2026] [::1]:39534 Accepted
+[Mon Jan  5 21:35:31 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:35:31 2026] [::1]:39534 [200]: GET /launch/index.php
+[Mon Jan  5 21:35:31 2026] [::1]:39534 Closing
+[Mon Jan  5 21:35:32 2026] [::1]:39540 Accepted
+[Mon Jan  5 21:35:32 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:35:32 2026] [::1]:39540 [200]: GET /admin/login.php
+[Mon Jan  5 21:35:32 2026] [::1]:39540 Closing
+[Mon Jan  5 21:35:33 2026] [::1]:39542 Accepted
+[Mon Jan  5 21:35:33 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:35:33 2026] [::1]:39542 [302]: POST /admin/login.php
+[Mon Jan  5 21:35:33 2026] [::1]:39542 Closing
+[Mon Jan  5 21:35:33 2026] [::1]:39544 Accepted
+[Mon Jan  5 21:35:33 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:35:33 2026] [::1]:39544 [200]: GET /admin/index.php
+[Mon Jan  5 21:35:33 2026] [::1]:39544 Closing
+[Mon Jan  5 21:35:36 2026] [::1]:39558 Accepted
+[Mon Jan  5 21:35:36 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:35:36 2026] [::1]:39558 [200]: GET /admin/pages.php
+[Mon Jan  5 21:35:36 2026] [::1]:39558 Closing
+[Mon Jan  5 21:35:38 2026] [::1]:57500 Accepted
+[Mon Jan  5 21:35:38 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:35:38 2026] [::1]:57500 [200]: GET /admin/edit_page.php
+[Mon Jan  5 21:35:38 2026] [::1]:57500 Closing
+[Mon Jan  5 21:39:50 2026] [::1]:35478 Accepted
+[Mon Jan  5 21:39:50 2026] [::1]:35478 [200]: GET /
+[Mon Jan  5 21:39:50 2026] [::1]:35478 Closing
+[Mon Jan  5 21:39:50 2026] [::1]:35494 Accepted
+[Mon Jan  5 21:39:50 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:39:50 2026] [::1]:35494 [200]: GET /launch/index.php
+[Mon Jan  5 21:39:50 2026] [::1]:35494 Closing
+[Mon Jan  5 21:39:51 2026] [::1]:35510 Accepted
+[Mon Jan  5 21:39:51 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:39:51 2026] [::1]:35510 [200]: GET /admin/login.php
+[Mon Jan  5 21:39:51 2026] [::1]:35510 Closing
+[Mon Jan  5 21:39:52 2026] [::1]:35518 Accepted
+[Mon Jan  5 21:39:52 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:39:52 2026] [::1]:35518 [302]: POST /admin/login.php
+[Mon Jan  5 21:39:52 2026] [::1]:35518 Closing
+[Mon Jan  5 21:39:53 2026] [::1]:35532 Accepted
+[Mon Jan  5 21:39:53 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:39:53 2026] [::1]:35532 [200]: GET /admin/index.php
+[Mon Jan  5 21:39:53 2026] [::1]:35532 Closing
+[Mon Jan  5 21:39:55 2026] [::1]:35536 Accepted
+[Mon Jan  5 21:39:55 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:39:55 2026] [::1]:35536 [200]: GET /admin/edit_post.php?id=1
+[Mon Jan  5 21:39:55 2026] [::1]:35536 Closing
+[Mon Jan  5 21:40:04 2026] [::1]:38440 Accepted
+[Mon Jan  5 21:40:04 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:40:04 2026] [::1]:38440 [200]: GET /admin/index.php
+[Mon Jan  5 21:40:04 2026] [::1]:38440 Closing
+[Mon Jan  5 21:40:06 2026] [::1]:38456 Accepted
+[Mon Jan  5 21:40:06 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:40:06 2026] [::1]:38456 [200]: GET /admin/posts.php
+[Mon Jan  5 21:40:06 2026] [::1]:38456 Closing
+[Mon Jan  5 21:40:07 2026] [::1]:38464 Accepted
+[Mon Jan  5 21:40:07 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:40:07 2026] [::1]:38464 [200]: GET /admin/pages.php
+[Mon Jan  5 21:40:07 2026] [::1]:38464 Closing
+[Mon Jan  5 21:40:08 2026] [::1]:39748 Accepted
+[Mon Jan  5 21:40:08 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:40:08 2026] [::1]:39748 [200]: GET /admin/edit_page.php
+[Mon Jan  5 21:40:08 2026] [::1]:39748 Closing
+[Mon Jan  5 21:40:57 2026] [::1]:53918 Accepted
+[Mon Jan  5 21:40:57 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:40:57 2026] [::1]:53918 [200]: GET /admin/media.php
+[Mon Jan  5 21:40:57 2026] [::1]:53918 Closing
+[Mon Jan  5 21:40:57 2026] [::1]:53934 Accepted
+[Mon Jan  5 21:40:57 2026] [::1]:53934 [200]: GET /uploads/695c2d3142342_1767648561.jpg
+[Mon Jan  5 21:40:57 2026] [::1]:53934 Closing
+[Mon Jan  5 21:41:04 2026] [::1]:57232 Accepted
+[Mon Jan  5 21:41:04 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:41:04 2026] [::1]:57232 [200]: GET /admin/pages.php
+[Mon Jan  5 21:41:04 2026] [::1]:57232 Closing
+[Mon Jan  5 21:41:07 2026] [::1]:57244 Accepted
+[Mon Jan  5 21:41:07 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:41:07 2026] [::1]:57244 [200]: GET /admin/pages.php
+[Mon Jan  5 21:41:07 2026] [::1]:57244 Closing
+[Mon Jan  5 21:41:07 2026] [::1]:33962 Accepted
+[Mon Jan  5 21:41:07 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:41:07 2026] [::1]:33962 [200]: GET /admin/posts.php
+[Mon Jan  5 21:41:07 2026] [::1]:33962 Closing
+[Mon Jan  5 21:41:08 2026] [::1]:33968 Accepted
+[Mon Jan  5 21:41:08 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:41:08 2026] [::1]:33968 [200]: GET /admin/pages.php
+[Mon Jan  5 21:41:08 2026] [::1]:33968 Closing
+[Mon Jan  5 21:41:11 2026] [::1]:33984 Accepted
+[Mon Jan  5 21:41:11 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:41:11 2026] [::1]:33984 [200]: GET /admin/edit_page.php
+[Mon Jan  5 21:41:11 2026] [::1]:33984 Closing
+[Mon Jan  5 21:42:06 2026] [::1]:47646 Accepted
+[Mon Jan  5 21:42:06 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:42:06 2026] [::1]:47646 [302]: POST /admin/edit_page.php
+[Mon Jan  5 21:42:06 2026] [::1]:47646 Closing
+[Mon Jan  5 21:42:06 2026] [::1]:47650 Accepted
+[Mon Jan  5 21:42:06 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:42:06 2026] [::1]:47650 [200]: GET /admin/pages.php
+[Mon Jan  5 21:42:06 2026] [::1]:47650 Closing
+[Mon Jan  5 21:42:09 2026] [::1]:56078 Accepted
+[Mon Jan  5 21:42:09 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:42:09 2026] [::1]:56078 [200]: GET /public/index.php
+[Mon Jan  5 21:42:09 2026] [::1]:56078 Closing
+[Mon Jan  5 21:42:12 2026] [::1]:56084 Accepted
+[Mon Jan  5 21:42:12 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:42:12 2026] [::1]:56084 [200]: GET /public/pages.php
+[Mon Jan  5 21:42:12 2026] [::1]:56084 Closing
+[Mon Jan  5 21:42:12 2026] [::1]:56086 Accepted
+[Mon Jan  5 21:42:12 2026] [::1]:56086 [200]: GET /uploads/695c2d3142342_1767648561.jpg
+[Mon Jan  5 21:42:12 2026] [::1]:56086 Closing
+[Mon Jan  5 21:42:26 2026] [::1]:38758 Accepted
+[Mon Jan  5 21:42:26 2026] [::1]:38758 [200]: GET /
+[Mon Jan  5 21:42:26 2026] [::1]:38758 Closing
+[Mon Jan  5 21:42:26 2026] [::1]:38768 Accepted
+[Mon Jan  5 21:42:26 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:42:26 2026] [::1]:38768 [200]: GET /launch/index.php
+[Mon Jan  5 21:42:26 2026] [::1]:38768 Closing
+[Mon Jan  5 21:42:27 2026] [::1]:39606 Accepted
+[Mon Jan  5 21:42:27 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:42:27 2026] [::1]:39606 [200]: GET /admin/login.php
+[Mon Jan  5 21:42:27 2026] [::1]:39606 Closing
+[Mon Jan  5 21:42:30 2026] [::1]:39622 Accepted
+[Mon Jan  5 21:42:30 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:42:30 2026] [::1]:39622 [200]: GET /public/index.php
+[Mon Jan  5 21:42:30 2026] [::1]:39622 Closing
+[Mon Jan  5 21:42:31 2026] [::1]:39632 Accepted
+[Mon Jan  5 21:42:31 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:42:31 2026] [::1]:39632 [200]: GET /public/pages.php
+[Mon Jan  5 21:42:31 2026] [::1]:39632 Closing
+[Mon Jan  5 21:42:31 2026] [::1]:39636 Accepted
+[Mon Jan  5 21:42:31 2026] [::1]:39636 [200]: GET /uploads/695c2d3142342_1767648561.jpg
+[Mon Jan  5 21:42:31 2026] [::1]:39636 Closing
+[Mon Jan  5 21:42:33 2026] [::1]:39642 Accepted
+[Mon Jan  5 21:42:33 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:42:33 2026] [::1]:39642 [200]: GET /public/pages.php?slug=test+2
+[Mon Jan  5 21:42:33 2026] [::1]:39642 Closing
+[Mon Jan  5 21:42:33 2026] [::1]:39652 Accepted
+[Mon Jan  5 21:42:33 2026] [::1]:39652 [200]: GET /uploads/695c2d3142342_1767648561.jpg
+[Mon Jan  5 21:42:33 2026] [::1]:39652 Closing
+[Mon Jan  5 21:42:43 2026] [::1]:41116 Accepted
+[Mon Jan  5 21:42:43 2026] [::1]:41116 [200]: GET /
+[Mon Jan  5 21:42:43 2026] [::1]:41116 Closing
+[Mon Jan  5 21:42:43 2026] [::1]:41126 Accepted
+[Mon Jan  5 21:42:43 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:42:43 2026] [::1]:41126 [200]: GET /launch/index.php
+[Mon Jan  5 21:42:43 2026] [::1]:41126 Closing
+[Mon Jan  5 21:42:44 2026] [::1]:41130 Accepted
+[Mon Jan  5 21:42:44 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:42:44 2026] [::1]:41130 [200]: GET /admin/login.php
+[Mon Jan  5 21:42:44 2026] [::1]:41130 Closing
+[Mon Jan  5 21:42:45 2026] [::1]:41140 Accepted
+[Mon Jan  5 21:42:45 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:42:45 2026] [::1]:41140 [302]: POST /admin/login.php
+[Mon Jan  5 21:42:45 2026] [::1]:41140 Closing
+[Mon Jan  5 21:42:45 2026] [::1]:41156 Accepted
+[Mon Jan  5 21:42:45 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:42:45 2026] [::1]:41156 [200]: GET /admin/index.php
+[Mon Jan  5 21:42:45 2026] [::1]:41156 Closing
+[Mon Jan  5 21:42:49 2026] [::1]:36750 Accepted
+[Mon Jan  5 21:42:49 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:42:49 2026] [::1]:36750 [200]: GET /admin/pages.php
+[Mon Jan  5 21:42:49 2026] [::1]:36750 Closing
+[Mon Jan  5 21:42:51 2026] [::1]:36764 Accepted
+[Mon Jan  5 21:42:51 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:42:51 2026] [::1]:36764 [200]: GET /admin/edit_page.php?id=3
+[Mon Jan  5 21:42:51 2026] [::1]:36764 Closing
+[Mon Jan  5 21:42:52 2026] [::1]:36770 Accepted
+[Mon Jan  5 21:42:52 2026] [::1]:36770 [200]: GET /uploads/695c2d3142342_1767648561.jpg
+[Mon Jan  5 21:42:52 2026] [::1]:36770 Closing
+[Mon Jan  5 21:44:52 2026] [::1]:36040 Accepted
+[Mon Jan  5 21:44:52 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:44:52 2026] [::1]:36040 [200]: POST /admin/edit_page.php?id=3
+[Mon Jan  5 21:44:52 2026] [::1]:36040 Closing
+[Mon Jan  5 21:44:52 2026] [::1]:36042 Accepted
+[Mon Jan  5 21:44:52 2026] [::1]:36042 [200]: GET /uploads/695c2d3142342_1767648561.jpg
+[Mon Jan  5 21:44:52 2026] [::1]:36042 Closing
+[Mon Jan  5 21:44:56 2026] [::1]:36058 Accepted
+[Mon Jan  5 21:44:56 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:44:56 2026] [::1]:36058 [200]: GET /public/index.php
+[Mon Jan  5 21:44:56 2026] [::1]:36058 Closing
+[Mon Jan  5 21:45:00 2026] [::1]:39652 Accepted
+[Mon Jan  5 21:45:00 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:45:00 2026] [::1]:39652 [200]: GET /public/index.php
+[Mon Jan  5 21:45:00 2026] [::1]:39652 Closing
+[Mon Jan  5 21:45:02 2026] [::1]:39660 Accepted
+[Mon Jan  5 21:45:02 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:45:02 2026] [::1]:39660 [200]: GET /public/pages.php
+[Mon Jan  5 21:45:02 2026] [::1]:39660 Closing
+[Mon Jan  5 21:45:03 2026] [::1]:39674 Accepted
+[Mon Jan  5 21:45:03 2026] [::1]:39674 [200]: GET /uploads/695c2d3142342_1767648561.jpg
+[Mon Jan  5 21:45:03 2026] [::1]:39674 Closing
+[Mon Jan  5 21:45:04 2026] [::1]:39684 Accepted
+[Mon Jan  5 21:45:04 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:45:04 2026] [::1]:39684 [200]: GET /public/pages.php?slug=test+2
+[Mon Jan  5 21:45:04 2026] [::1]:39684 Closing
+[Mon Jan  5 21:45:04 2026] [::1]:39686 Accepted
+[Mon Jan  5 21:45:04 2026] [::1]:39686 [200]: GET /uploads/695c2d3142342_1767648561.jpg
+[Mon Jan  5 21:45:04 2026] [::1]:39686 Closing
+[Mon Jan  5 21:45:18 2026] [::1]:57264 Accepted
+[Mon Jan  5 21:45:18 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:45:18 2026] [::1]:57264 [200]: GET /admin/media.php
+[Mon Jan  5 21:45:18 2026] [::1]:57264 Closing
+[Mon Jan  5 21:45:18 2026] [::1]:57272 Accepted
+[Mon Jan  5 21:45:18 2026] [::1]:57272 [200]: GET /uploads/695c2d3142342_1767648561.jpg
+[Mon Jan  5 21:45:18 2026] [::1]:57272 Closing
+[Mon Jan  5 21:53:02 2026] [::1]:48832 Accepted
+[Mon Jan  5 21:53:02 2026] [::1]:48832 [200]: GET /
+[Mon Jan  5 21:53:02 2026] [::1]:48832 Closing
+[Mon Jan  5 21:53:02 2026] [::1]:48836 Accepted
+[Mon Jan  5 21:53:02 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:53:02 2026] [::1]:48836 [200]: GET /launch/index.php
+[Mon Jan  5 21:53:02 2026] [::1]:48836 Closing
+[Mon Jan  5 21:53:03 2026] [::1]:48838 Accepted
+[Mon Jan  5 21:53:03 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:53:03 2026] [::1]:48838 [200]: GET /admin/login.php
+[Mon Jan  5 21:53:03 2026] [::1]:48838 Closing
+[Mon Jan  5 21:53:04 2026] [::1]:48842 Accepted
+[Mon Jan  5 21:53:04 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:53:04 2026] [::1]:48842 [302]: POST /admin/login.php
+[Mon Jan  5 21:53:04 2026] [::1]:48842 Closing
+[Mon Jan  5 21:53:05 2026] [::1]:48852 Accepted
+[Mon Jan  5 21:53:05 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:53:05 2026] [::1]:48852 [200]: GET /admin/index.php
+[Mon Jan  5 21:53:05 2026] [::1]:48852 Closing
+[Mon Jan  5 21:53:08 2026] [::1]:57606 Accepted
+[Mon Jan  5 21:53:08 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:53:08 2026] [::1]:57606 [200]: GET /admin/pages.php
+[Mon Jan  5 21:53:08 2026] [::1]:57606 Closing
+[Mon Jan  5 21:53:11 2026] [::1]:57610 Accepted
+[Mon Jan  5 21:53:11 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:53:11 2026] [::1]:57610 [200]: GET /public/index.php
+[Mon Jan  5 21:53:11 2026] [::1]:57610 Closing
+[Mon Jan  5 21:53:13 2026] [::1]:57624 Accepted
+[Mon Jan  5 21:53:13 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:53:13 2026] [::1]:57624 [200]: GET /public/pages.php
+[Mon Jan  5 21:53:13 2026] [::1]:57624 Closing
+[Mon Jan  5 21:53:13 2026] [::1]:57630 Accepted
+[Mon Jan  5 21:53:13 2026] [::1]:57630 [200]: GET /uploads/695c2d3142342_1767648561.jpg
+[Mon Jan  5 21:53:13 2026] [::1]:57630 Closing
+[Mon Jan  5 21:53:15 2026] [::1]:57638 Accepted
+[Mon Jan  5 21:53:15 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:53:15 2026] [::1]:57638 [200]: GET /public/pages.php?slug=test+2
+[Mon Jan  5 21:53:15 2026] [::1]:57638 Closing
+[Mon Jan  5 21:53:15 2026] [::1]:57644 Accepted
+[Mon Jan  5 21:53:15 2026] [::1]:57644 [200]: GET /uploads/695c2d3142342_1767648561.jpg
+[Mon Jan  5 21:53:15 2026] [::1]:57644 Closing
+[Mon Jan  5 21:53:18 2026] [::1]:54218 Accepted
+[Mon Jan  5 21:53:18 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 21:53:18 2026] [::1]:54218 [200]: GET /public/index.php
+[Mon Jan  5 21:53:18 2026] [::1]:54218 Closing
+[Mon Jan  5 22:01:10 2026] [::1]:59010 Accepted
+[Mon Jan  5 22:01:10 2026] [::1]:59010 [200]: GET /
+[Mon Jan  5 22:01:10 2026] [::1]:59010 Closing
+[Mon Jan  5 22:01:11 2026] [::1]:59026 Accepted
+[Mon Jan  5 22:01:11 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:01:11 2026] [::1]:59026 [200]: GET /launch/index.php
+[Mon Jan  5 22:01:11 2026] [::1]:59026 Closing
+[Mon Jan  5 22:01:12 2026] [::1]:59030 Accepted
+[Mon Jan  5 22:01:12 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:01:12 2026] [::1]:59030 [200]: GET /admin/login.php
+[Mon Jan  5 22:01:12 2026] [::1]:59030 Closing
+[Mon Jan  5 22:01:13 2026] [::1]:59032 Accepted
+[Mon Jan  5 22:01:13 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:01:13 2026] [::1]:59032 [302]: POST /admin/login.php
+[Mon Jan  5 22:01:13 2026] [::1]:59032 Closing
+[Mon Jan  5 22:01:13 2026] [::1]:59044 Accepted
+[Mon Jan  5 22:01:13 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:01:13 2026] [::1]:59044 [200]: GET /admin/index.php
+[Mon Jan  5 22:01:13 2026] [::1]:59044 Closing
+[Mon Jan  5 22:01:15 2026] [::1]:59052 Accepted
+[Mon Jan  5 22:01:15 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:01:15 2026] [::1]:59052 [200]: GET /admin/pages.php
+[Mon Jan  5 22:01:15 2026] [::1]:59052 Closing
+[Mon Jan  5 22:01:16 2026] [::1]:59062 Accepted
+[Mon Jan  5 22:01:16 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:01:16 2026] [::1]:59062 [200]: GET /public/index.php
+[Mon Jan  5 22:01:16 2026] [::1]:59062 Closing
+[Mon Jan  5 22:01:18 2026] [::1]:39852 Accepted
+[Mon Jan  5 22:01:18 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:01:18 2026] [::1]:39852 [200]: GET /public/pages.php
+[Mon Jan  5 22:01:18 2026] [::1]:39852 Closing
+[Mon Jan  5 22:01:19 2026] [::1]:39856 Accepted
+[Mon Jan  5 22:01:19 2026] [::1]:39856 [200]: GET /uploads/695c2d3142342_1767648561.jpg
+[Mon Jan  5 22:01:19 2026] [::1]:39856 Closing
+[Mon Jan  5 22:01:20 2026] [::1]:39872 Accepted
+[Mon Jan  5 22:01:20 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:01:20 2026] [::1]:39872 [200]: GET /public/pages.php?slug=test+2
+[Mon Jan  5 22:01:20 2026] [::1]:39872 Closing
+[Mon Jan  5 22:01:20 2026] [::1]:39888 Accepted
+[Mon Jan  5 22:01:20 2026] [::1]:39888 [200]: GET /uploads/695c2d3142342_1767648561.jpg
+[Mon Jan  5 22:01:20 2026] [::1]:39888 Closing
+[Mon Jan  5 22:01:22 2026] [::1]:39896 Accepted
+[Mon Jan  5 22:01:22 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:01:22 2026] [::1]:39896 [200]: GET /admin/edit_page.php
+[Mon Jan  5 22:01:22 2026] [::1]:39896 Closing
+[Mon Jan  5 22:01:23 2026] [::1]:39900 Accepted
+[Mon Jan  5 22:01:23 2026] [::1]:39900 [200]: GET /admin/media-picker.css
+[Mon Jan  5 22:01:23 2026] [::1]:39900 Closing
+[Mon Jan  5 22:01:23 2026] [::1]:39916 Accepted
+[Mon Jan  5 22:01:23 2026] [::1]:39916 [200]: GET /admin/media-picker.js
+[Mon Jan  5 22:01:23 2026] [::1]:39916 Closing
+[Mon Jan  5 22:08:11 2026] [::1]:39814 Accepted
+[Mon Jan  5 22:08:11 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:08:11 2026] [::1]:39814 [200]: GET /public/index.php
+[Mon Jan  5 22:08:11 2026] [::1]:39814 Closing
+[Mon Jan  5 22:08:17 2026] [::1]:39816 Accepted
+[Mon Jan  5 22:08:17 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:08:17 2026] [::1]:39816 [200]: GET /public/pages.php
+[Mon Jan  5 22:08:17 2026] [::1]:39816 Closing
+[Mon Jan  5 22:08:17 2026] [::1]:57636 Accepted
+[Mon Jan  5 22:08:17 2026] [::1]:57636 [200]: GET /uploads/695c2d3142342_1767648561.jpg
+[Mon Jan  5 22:08:17 2026] [::1]:57636 Closing
+[Mon Jan  5 22:08:21 2026] [::1]:57646 Accepted
+[Mon Jan  5 22:08:21 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:08:21 2026] [::1]:57646 [200]: GET /public/pages.php?slug=home
+[Mon Jan  5 22:08:21 2026] [::1]:57646 Closing
+[Mon Jan  5 22:08:26 2026] [::1]:57658 Accepted
+[Mon Jan  5 22:08:26 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:08:26 2026] [::1]:57658 [200]: GET /public/index.php
+[Mon Jan  5 22:08:26 2026] [::1]:57658 Closing
+[Mon Jan  5 22:08:27 2026] [::1]:60206 Accepted
+[Mon Jan  5 22:08:27 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:08:27 2026] [::1]:60206 [200]: GET /public/blog.php
+[Mon Jan  5 22:08:27 2026] [::1]:60206 Closing
+[Mon Jan  5 22:08:28 2026] [::1]:60222 Accepted
+[Mon Jan  5 22:08:28 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:08:28 2026] [::1]:60222 [200]: GET /public/pages.php
+[Mon Jan  5 22:08:28 2026] [::1]:60222 Closing
+[Mon Jan  5 22:08:28 2026] [::1]:60238 Accepted
+[Mon Jan  5 22:08:28 2026] [::1]:60238 [200]: GET /uploads/695c2d3142342_1767648561.jpg
+[Mon Jan  5 22:08:28 2026] [::1]:60238 Closing
+[Mon Jan  5 22:08:29 2026] [::1]:60252 Accepted
+[Mon Jan  5 22:08:29 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:08:29 2026] [::1]:60252 [200]: GET /public/index.php
+[Mon Jan  5 22:08:29 2026] [::1]:60252 Closing
+[Mon Jan  5 22:09:51 2026] [::1]:46780 Accepted
+[Mon Jan  5 22:09:51 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:09:51 2026] [::1]:46780 [302]: POST /admin/edit_page.php
+[Mon Jan  5 22:09:51 2026] [::1]:46780 Closing
+[Mon Jan  5 22:09:51 2026] [::1]:46784 Accepted
+[Mon Jan  5 22:09:51 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:09:51 2026] [::1]:46784 [200]: GET /admin/pages.php
+[Mon Jan  5 22:09:51 2026] [::1]:46784 Closing
+[Mon Jan  5 22:09:53 2026] [::1]:46794 Accepted
+[Mon Jan  5 22:09:53 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:09:53 2026] [::1]:46794 [200]: GET /admin/edit_page.php?id=4
+[Mon Jan  5 22:09:53 2026] [::1]:46794 Closing
+[Mon Jan  5 22:09:53 2026] [::1]:46800 Accepted
+[Mon Jan  5 22:09:53 2026] [::1]:46800 [200]: GET /admin/media-picker.js
+[Mon Jan  5 22:09:53 2026] [::1]:46800 Closing
+[Mon Jan  5 22:09:54 2026] [::1]:46816 Accepted
+[Mon Jan  5 22:09:54 2026] [::1]:46816 [200]: GET /admin/media-picker.css
+[Mon Jan  5 22:09:54 2026] [::1]:46816 Closing
+[Mon Jan  5 22:09:56 2026] [::1]:46830 Accepted
+[Mon Jan  5 22:09:56 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:09:56 2026] [::1]:46830 [200]: GET /admin/get_media.php
+[Mon Jan  5 22:09:56 2026] [::1]:46830 Closing
+[Mon Jan  5 22:09:56 2026] [::1]:46832 Accepted
+[Mon Jan  5 22:09:56 2026] [::1]:46832 [200]: GET /uploads/695c2d3142342_1767648561.jpg
+[Mon Jan  5 22:09:56 2026] [::1]:46832 Closing
+[Mon Jan  5 22:10:07 2026] [::1]:49728 Accepted
+[Mon Jan  5 22:10:07 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:10:07 2026] [::1]:49728 [200]: POST /admin/edit_page.php?id=4
+[Mon Jan  5 22:10:07 2026] [::1]:49728 Closing
+[Mon Jan  5 22:10:07 2026] [::1]:49744 Accepted
+[Mon Jan  5 22:10:07 2026] [::1]:49758 Accepted
+[Mon Jan  5 22:10:07 2026] [::1]:49744 [200]: GET /admin/media-picker.js
+[Mon Jan  5 22:10:07 2026] [::1]:49744 Closing
+[Mon Jan  5 22:10:07 2026] [::1]:49758 [200]: GET /admin/media-picker.css
+[Mon Jan  5 22:10:07 2026] [::1]:49758 Closing
+[Mon Jan  5 22:10:14 2026] [::1]:49768 Accepted
+[Mon Jan  5 22:10:14 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:10:14 2026] [::1]:49768 [200]: GET /admin/index.php
+[Mon Jan  5 22:10:14 2026] [::1]:49768 Closing
+[Mon Jan  5 22:10:17 2026] [::1]:49778 Accepted
+[Mon Jan  5 22:10:17 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:10:17 2026] [::1]:49778 [200]: GET /admin/pages.php
+[Mon Jan  5 22:10:17 2026] [::1]:49778 Closing
+[Mon Jan  5 22:10:18 2026] [::1]:49490 Accepted
+[Mon Jan  5 22:10:18 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:10:18 2026] [::1]:49490 [200]: GET /admin/edit_page.php?id=4
+[Mon Jan  5 22:10:18 2026] [::1]:49490 Closing
+[Mon Jan  5 22:10:19 2026] [::1]:49502 Accepted
+[Mon Jan  5 22:10:19 2026] [::1]:49502 [200]: GET /admin/media-picker.js
+[Mon Jan  5 22:10:19 2026] [::1]:49502 Closing
+[Mon Jan  5 22:10:19 2026] [::1]:49506 Accepted
+[Mon Jan  5 22:10:19 2026] [::1]:49514 Accepted
+[Mon Jan  5 22:10:19 2026] [::1]:49506 [200]: GET /admin/media-picker.css
+[Mon Jan  5 22:10:19 2026] [::1]:49506 Closing
+[Mon Jan  5 22:10:19 2026] [::1]:49514 [200]: GET /uploads/695c2d3142342_1767648561.jpg
+[Mon Jan  5 22:10:19 2026] [::1]:49514 Closing
+[Mon Jan  5 22:10:24 2026] [::1]:49520 Accepted
+[Mon Jan  5 22:10:24 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:10:24 2026] [::1]:49520 [200]: GET /public/index.php
+[Mon Jan  5 22:10:24 2026] [::1]:49520 Closing
+[Mon Jan  5 22:10:25 2026] [::1]:49526 Accepted
+[Mon Jan  5 22:10:25 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:10:25 2026] [::1]:49526 [200]: GET /public/pages.php
+[Mon Jan  5 22:10:25 2026] [::1]:49526 Closing
+[Mon Jan  5 22:10:25 2026] [::1]:49538 Accepted
+[Mon Jan  5 22:10:25 2026] [::1]:49538 [200]: GET /uploads/695c2d3142342_1767648561.jpg
+[Mon Jan  5 22:10:25 2026] [::1]:49538 Closing
+[Mon Jan  5 22:10:31 2026] [::1]:35996 Accepted
+[Mon Jan  5 22:10:31 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:10:31 2026] [::1]:35996 [200]: POST /admin/edit_page.php?id=4
+[Mon Jan  5 22:10:31 2026] [::1]:35996 Closing
+[Mon Jan  5 22:10:31 2026] [::1]:36002 Accepted
+[Mon Jan  5 22:10:31 2026] [::1]:36006 Accepted
+[Mon Jan  5 22:10:31 2026] [::1]:36006 [200]: GET /admin/media-picker.css
+[Mon Jan  5 22:10:31 2026] [::1]:36006 Closing
+[Mon Jan  5 22:10:31 2026] [::1]:36002 [200]: GET /admin/media-picker.js
+[Mon Jan  5 22:10:31 2026] [::1]:36002 Closing
+[Mon Jan  5 22:10:31 2026] [::1]:36020 Accepted
+[Mon Jan  5 22:10:31 2026] [::1]:36020 [200]: GET /uploads/695c2d3142342_1767648561.jpg
+[Mon Jan  5 22:10:31 2026] [::1]:36020 Closing
+[Mon Jan  5 22:10:33 2026] [::1]:36026 Accepted
+[Mon Jan  5 22:10:33 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:10:33 2026] [::1]:36026 [200]: GET /public/index.php
+[Mon Jan  5 22:10:33 2026] [::1]:36026 Closing
+[Mon Jan  5 22:10:34 2026] [::1]:36030 Accepted
+[Mon Jan  5 22:10:34 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:10:34 2026] [::1]:36030 [200]: GET /public/pages.php
+[Mon Jan  5 22:10:34 2026] [::1]:36030 Closing
+[Mon Jan  5 22:10:34 2026] [::1]:36034 Accepted
+[Mon Jan  5 22:10:34 2026] [::1]:36034 [200]: GET /uploads/695c2d3142342_1767648561.jpg
+[Mon Jan  5 22:10:34 2026] [::1]:36034 Closing
+[Mon Jan  5 22:10:37 2026] [::1]:40458 Accepted
+[Mon Jan  5 22:10:37 2026] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port).
+[Mon Jan  5 22:10:37 2026] [::1]:40458 [200]: GET /public/pages.php?slug=t
+[Mon Jan  5 22:10:37 2026] [::1]:40458 Closing
+[Mon Jan  5 22:10:37 2026] [::1]:40462 Accepted
+[Mon Jan  5 22:10:37 2026] [::1]:40462 [200]: GET /uploads/695c2d3142342_1767648561.jpg
+[Mon Jan  5 22:10:37 2026] [::1]:40462 Closing

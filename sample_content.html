@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample Rich Content - CMS Preview</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            padding: 40px 0;
+            background-color: #f8f9fa;
+        }
+        .content-wrapper {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        /* Rich media styling */
+        .content-wrapper img { 
+            max-width: 100%; 
+            height: auto; 
+            border-radius: 8px; 
+            margin: 20px 0; 
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1); 
+        }
+        .content-wrapper video { 
+            max-width: 100%; 
+            height: auto; 
+            border-radius: 8px; 
+            margin: 20px 0; 
+        }
+        .content-wrapper table { 
+            width: 100%; 
+            border-collapse: collapse; 
+            margin: 20px 0; 
+        }
+        .content-wrapper table th, 
+        .content-wrapper table td { 
+            padding: 12px; 
+            border: 1px solid #ddd; 
+            text-align: left; 
+        }
+        .content-wrapper table th { 
+            background-color: #f8f9fa; 
+            font-weight: 600; 
+        }
+        .content-wrapper blockquote { 
+            border-left: 4px solid #667eea; 
+            padding-left: 20px; 
+            margin: 20px 0; 
+            font-style: italic; 
+            color: #555; 
+        }
+        .content-wrapper pre { 
+            background-color: #f5f5f5; 
+            padding: 15px; 
+            border-radius: 4px; 
+            overflow-x: auto; 
+        }
+        .content-wrapper code { 
+            background-color: #f5f5f5; 
+            padding: 2px 6px; 
+            border-radius: 3px; 
+            font-family: monospace; 
+        }
+        h1 { color: #2c3e50; margin-bottom: 10px; }
+        h2 { color: #34495e; margin-top: 30px; }
+        .badge { margin-right: 5px; }
+    </style>
+</head>
+<body>
+    <div class="content-wrapper">
+        <h1>Sample Rich Media Content</h1>
+        <p class="text-muted">This demonstrates all the formatting and media features now available in your CMS</p>
+        <hr>
+        
+        <h2>Text Formatting</h2>
+        <p>You can now use <strong>bold text</strong>, <em>italic text</em>, <u>underlined text</u>, and even <span style="color: #e74c3c;">colored text</span>.</p>
+        
+        <h2>Lists</h2>
+        <p>Create organized content with lists:</p>
+        <ul>
+            <li>Unordered list item 1</li>
+            <li>Unordered list item 2
+                <ul>
+                    <li>Nested item</li>
+                </ul>
+            </li>
+            <li>Unordered list item 3</li>
+        </ul>
+        
+        <ol>
+            <li>Ordered list item 1</li>
+            <li>Ordered list item 2</li>
+            <li>Ordered list item 3</li>
+        </ol>
+        
+        <h2>Images</h2>
+        <p>Add images with automatic responsive scaling:</p>
+        <img src="https://via.placeholder.com/800x400/667eea/ffffff?text=Sample+Image" alt="Sample placeholder image">
+        <p class="text-muted text-center"><em>Images automatically adapt to screen size</em></p>
+        
+        <h2>Tables</h2>
+        <p>Create professional data tables:</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Feature</th>
+                    <th>Status</th>
+                    <th>Description</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Rich Text Editor</td>
+                    <td><span class="badge bg-success">Enabled</span></td>
+                    <td>TinyMCE WYSIWYG editor</td>
+                </tr>
+                <tr>
+                    <td>Image Upload</td>
+                    <td><span class="badge bg-success">Enabled</span></td>
+                    <td>Drag & drop support</td>
+                </tr>
+                <tr>
+                    <td>Video Embed</td>
+                    <td><span class="badge bg-success">Enabled</span></td>
+                    <td>YouTube, Vimeo, direct upload</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <h2>Blockquotes</h2>
+        <p>Highlight important quotes or excerpts:</p>
+        <blockquote>
+            "The ability to add rich media and formatting transforms a basic CMS into a powerful content creation platform."
+        </blockquote>
+        
+        <h2>Code Blocks</h2>
+        <p>Share code snippets with proper formatting:</p>
+        <pre><code>function uploadImage(file) {
+    const formData = new FormData();
+    formData.append('file', file);
+    return fetch('/upload', { method: 'POST', body: formData });
+}</code></pre>
+        
+        <p>Or use inline code like <code>const result = api.getData()</code> within paragraphs.</p>
+        
+        <h2>Video Embedding</h2>
+        <p>Embed videos from YouTube, Vimeo, or upload directly:</p>
+        <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px;">
+            <iframe 
+                src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                allowfullscreen
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+            </iframe>
+        </div>
+        
+        <h2>Links</h2>
+        <p>Create <a href="https://example.com" target="_blank">external links</a> or internal navigation links easily.</p>
+        
+        <hr>
+        
+        <div class="alert alert-info">
+            <strong>💡 Pro Tip:</strong> All these features are now available in your page and post editor. Just click the formatting buttons in the toolbar!
+        </div>
+        
+        <div class="text-center mt-4">
+            <p class="text-muted">Created with the enhanced CMS rich media system</p>
+        </div>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
