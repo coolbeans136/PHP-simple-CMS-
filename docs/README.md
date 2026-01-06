@@ -1,1 +1,2 @@
-# 1by1
+# this is a super simple CMS (Content Managment System) made with largly with PHP. I hope that it is useful...
+# Yaahh, coolbeans.
